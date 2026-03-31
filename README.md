@@ -191,7 +191,7 @@ Bu çağrılar düşük seviyeli bellek eşleme tekniği kullanıldığını gö
 
 Bu kombinasyon, yapının:
 - **DSE** (Driver Signature Enforcement / sürücü imza zorlaması kapatma)
-- **Code Integrity** (kod bütünlüğü/bellek bütünlüğü)
+- **Code Integrity** (kod bütünlüğü/bellek bütünlüğü kapatma)
 - **EFI** (önyükleme / firmware ortamı) - yeni versiyonlarda bu durum yok.
 
 tarafına dokunduğunu gösteriyor.
